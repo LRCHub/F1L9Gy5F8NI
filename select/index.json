@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "STARLIGHT CELEBRATE!",
+  "base_artist": "DRAMATIC STARS",
+  "createdAt": "2026-01-14T03:48:45.409320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STARLIGHT CELEBRATE!",
+      "artist": "DRAMATIC STARS",
+      "has_synced": true,
+      "path": "select/01_STARLIGHT_CELEBRATE!_DRAMATIC_STARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STARLIGHT CELEBRATE! - Off Vocal",
+      "artist": "DRAMATIC STARS",
+      "has_synced": true,
+      "path": "select/02_STARLIGHT_CELEBRATE!_-_Off_Vocal_DRAMATIC_STARS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STARLIGHT CELEBRATE!",
+      "artist": "DRAMATIC STARS",
+      "has_synced": false,
+      "path": "select/pl_01_STARLIGHT_CELEBRATE!_DRAMATIC_STARS.txt"
+    }
+  ]
+}
